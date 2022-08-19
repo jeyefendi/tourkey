@@ -1,3 +1,5 @@
 # Tour Key
-## Site for Turkey traveling
-Just a pet-project
+Web Service for Turkey Travel Search
+><b>JS <br>HTML <br>SCSS<br>jQuery<br>Figma</b>
+# [LIVE DEMO](https://jeyefendi.github.io/tourkey/)
+![Logo](./COVER.webp)
